@@ -1,0 +1,21 @@
+Nearist Neighbor runs.
+A,G,B,M,P,E,J,C,F,I,Q,H,K,D,N,O,R,L,A  Cost = 21
+B,G,A,I,F,C,H,K,D,N,O,J,E,P,M,L,R,Q,B  Cost = 21
+C,F,I,A,G,B,M,P,E,J,O,N,D,K,H,R,L,Q,C  Cost = 20
+D,K,C,F,I,A,G,B,M,P,E,J,O,N,H,R,L,Q,D  Cost = 22
+E,G,A,I,F,C,H,K,D,N,O,B,M,P,J,Q,L,R,E  Cost = 21
+F,C,H,K,D,N,O,B,G,A,I,Q,J,E,P,M,L,R,F  Cost = 21
+G,A,I,F,C,H,K,D,N,O,B,M,P,E,J,Q,L,R,G  Cost = 19
+H,C,F,I,A,G,B,M,P,E,J,O,N,D,K,Q,L,R,H  Cost = 20
+I,A,G,B,M,P,E,J,C,F,L,R,D,K,H,N,O,Q,I  Cost = 20
+J,A,G,B,M,P,E,C,F,I,Q,H,K,D,N,O,R,L,J  Cost = 22
+K,C,F,I,A,G,B,M,P,E,J,O,N,D,R,H,Q,L,K  Cost = 22
+L,F,C,H,K,D,N,O,B,G,A,I,Q,J,E,P,M,R,L  Cost = 19
+M,B,G,A,I,F,C,H,K,D,N,O,J,E,P,L,R,Q,M  Cost = 22
+N,D,K,C,F,I,A,G,B,M,P,E,J,O,R,H,Q,L,N  Cost = 21
+O,B,G,A,I,F,C,H,K,D,N,P,E,J,Q,L,R,M,O  Cost = 21
+P,E,G,A,I,F,C,H,K,D,N,O,B,M,L,R,J,Q,P  Cost = 22
+Q,B,G,A,I,F,C,H,K,D,N,O,J,E,P,M,L,R,Q  Cost = 21
+R,B,G,A,I,F,C,H,K,D,N,O,J,E,P,M,L,Q,R  Cost = 22
+Exact solution is:
+A,J,Q,I,F,L,R,H,C,K,D,N,O,B,M,P,E,G,A  Cost = 18

@@ -1,0 +1,31 @@
+Nearist Neighbor runs.
+A,O,N,J,K,M,L,I,G,H,P,S,T,R,Q,U,V,Z,W,X,Y,C,B,D,E,F,A  Cost = 1112
+B,C,N,O,M,K,L,J,I,G,H,P,S,T,R,Q,U,V,Z,W,X,Y,A,D,E,F,B  Cost = 1026
+C,N,O,M,K,L,J,I,G,H,P,S,T,R,Q,U,V,Z,W,X,Y,A,B,D,E,F,C  Cost = 978
+D,E,F,G,H,I,J,K,M,L,O,N,C,B,A,Y,W,V,U,Q,R,T,S,P,Z,X,D  Cost = 1253
+E,F,D,C,N,O,M,K,L,J,I,G,H,P,S,T,R,Q,U,V,Z,W,X,Y,A,B,E  Cost = 980
+F,E,D,C,N,O,M,K,L,J,I,G,H,P,S,T,R,Q,U,V,Z,W,X,Y,A,B,F  Cost = 982
+G,H,I,J,K,M,L,O,N,C,B,D,E,F,P,S,T,R,Q,U,V,Z,W,X,Y,A,G  Cost = 1070
+H,G,I,J,K,M,L,O,N,C,B,D,E,F,P,S,T,R,Q,U,V,Z,W,X,Y,A,H  Cost = 1085
+I,J,K,M,L,O,N,C,B,D,E,F,G,H,P,S,T,R,Q,U,V,Z,W,X,Y,A,I  Cost = 1010
+J,K,M,L,O,N,C,B,D,E,F,G,H,I,P,S,T,R,Q,U,V,Z,W,X,Y,A,J  Cost = 987
+K,M,L,O,N,J,I,G,H,P,S,T,R,Q,U,V,Z,W,X,Y,A,B,C,D,E,F,K  Cost = 1001
+L,M,K,J,N,O,C,B,D,E,F,G,H,I,P,S,T,R,Q,U,V,Z,W,X,Y,A,L  Cost = 965
+M,K,L,O,N,J,I,G,H,P,S,T,R,Q,U,V,Z,W,X,Y,A,B,C,D,E,F,M  Cost = 1010
+N,O,M,K,L,J,I,G,H,P,S,T,R,Q,U,V,Z,W,X,Y,A,B,C,D,E,F,N  Cost = 998
+O,N,J,K,M,L,I,G,H,P,S,T,R,Q,U,V,Z,W,X,Y,A,B,C,D,E,F,O  Cost = 1016
+P,S,T,R,Q,U,V,Z,W,X,Y,L,M,K,J,N,O,C,B,D,E,F,G,H,I,A,P  Cost = 1090
+Q,R,T,S,P,I,J,K,M,L,O,N,C,B,D,E,F,G,H,U,V,Z,W,X,Y,A,Q  Cost = 1109
+R,Q,U,V,Z,W,X,Y,L,M,K,J,N,O,C,B,D,E,F,G,H,I,P,S,T,A,R  Cost = 1177
+S,T,R,Q,U,V,Z,W,X,Y,L,M,K,J,N,O,C,B,D,E,F,G,H,I,P,A,S  Cost = 1138
+T,S,P,I,J,K,M,L,O,N,C,B,D,E,F,G,H,Q,R,U,V,Z,W,X,Y,A,T  Cost = 1128
+U,V,Z,Q,R,T,S,P,I,J,K,M,L,O,N,C,B,D,E,F,G,H,A,Y,W,X,U  Cost = 1089
+V,U,Q,R,T,S,P,I,J,K,M,L,O,N,C,B,D,E,F,G,H,Z,W,X,Y,A,V  Cost = 1136
+W,V,U,Q,R,T,S,P,I,J,K,M,L,O,N,C,B,D,E,F,G,H,Z,Y,X,A,W  Cost = 1288
+X,W,V,U,Q,R,T,S,P,I,J,K,M,L,O,N,C,B,D,E,F,G,H,Z,Y,A,X  Cost = 1188
+Y,W,V,U,Q,R,T,S,P,I,J,K,M,L,O,N,C,B,D,E,F,G,H,Z,X,A,Y  Cost = 1218
+Z,V,U,Q,R,T,S,P,I,J,K,M,L,O,N,C,B,D,E,F,G,H,A,Y,W,X,Z  Cost = 1047
+Hybrid run.
+L,M,K,J,N,O,C,B,D,A,E,F,G,H,I,P,Q,R,S,T,U,V,W,X,Y,Z,L  Cost = 965
+Exact solution is:
+A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,A  Cost = 965

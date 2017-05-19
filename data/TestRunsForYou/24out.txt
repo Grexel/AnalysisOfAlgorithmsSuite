@@ -1,0 +1,29 @@
+Nearist Neighbor runs.
+A,I,U,K,P,G,S,R,T,F,B,L,X,V,J,N,E,D,C,O,W,M,H,Q,A  Cost = 210
+B,L,G,S,R,T,U,K,P,C,O,W,V,X,J,N,E,I,A,F,Q,M,H,D,B  Cost = 193
+C,S,G,P,K,U,T,F,I,A,L,B,R,J,N,E,D,Q,V,X,W,O,M,H,C  Cost = 203
+D,U,K,P,G,S,R,T,F,I,A,L,B,X,V,J,N,E,H,M,W,O,C,Q,D  Cost = 180
+E,P,G,S,R,T,U,K,N,J,V,X,L,B,F,I,A,W,O,C,D,Q,M,H,E  Cost = 160
+F,T,U,K,P,G,S,R,B,L,A,I,W,O,C,D,J,N,E,H,M,Q,V,X,F  Cost = 199
+G,S,R,T,U,K,P,C,O,W,V,X,J,N,E,I,A,L,B,F,Q,M,H,D,G  Cost = 200
+H,J,R,S,G,P,K,U,T,F,I,A,L,B,D,C,O,W,V,X,M,Q,E,N,H  Cost = 217
+I,U,K,P,G,S,R,T,F,B,L,A,W,O,C,D,J,N,E,H,M,Q,V,X,I  Cost = 177
+J,R,S,G,P,K,U,T,F,I,A,L,B,D,C,O,W,V,X,M,H,E,N,Q,J  Cost = 208
+K,U,T,F,I,A,L,B,R,S,G,P,C,O,W,V,X,J,N,E,D,Q,M,H,K  Cost = 192
+L,B,R,S,G,P,K,U,T,F,I,A,W,O,C,D,J,N,E,H,M,Q,V,X,L  Cost = 162
+M,H,J,R,S,G,P,K,U,T,F,I,A,L,B,D,C,O,W,V,X,Q,E,N,M  Cost = 207
+N,J,R,S,G,P,K,U,T,F,I,A,L,B,D,C,O,W,V,X,M,H,E,Q,N  Cost = 228
+O,S,G,P,K,U,T,F,I,A,L,B,R,J,N,E,D,C,M,H,V,X,W,Q,O  Cost = 202
+P,G,S,R,T,U,K,N,J,V,X,L,B,F,I,A,W,O,C,D,Q,M,H,E,P  Cost = 160
+Q,V,X,J,R,S,G,P,K,U,T,F,I,A,L,B,D,C,O,W,M,H,E,N,Q  Cost = 197
+R,S,G,P,K,U,T,F,I,A,L,B,D,C,O,W,V,X,J,N,E,H,M,Q,R  Cost = 199
+S,G,P,K,U,T,F,I,A,L,B,R,J,N,E,D,C,O,W,V,X,M,H,Q,S  Cost = 190
+T,U,K,P,G,S,R,B,L,A,I,F,Q,V,X,J,N,E,D,C,O,W,M,H,T  Cost = 168
+U,K,P,G,S,R,T,F,I,A,L,B,D,C,O,W,V,X,J,N,E,H,M,Q,U  Cost = 188
+V,X,J,R,S,G,P,K,U,T,F,I,A,L,B,D,C,O,W,M,H,E,N,Q,V  Cost = 197
+W,K,U,T,F,I,A,L,B,R,S,G,P,C,O,M,H,J,N,E,D,Q,V,X,W  Cost = 169
+X,V,R,S,G,P,K,U,T,F,I,A,L,B,D,C,O,W,M,H,J,N,E,Q,X  Cost = 194
+Hybrid run.
+E,P,G,S,R,T,U,D,C,O,W,M,H,J,N,K,X,V,Q,F,B,L,A,I,E  Cost = 153
+Exact solution is:
+A,L,B,R,S,G,P,E,D,U,K,N,J,H,M,Q,V,X,W,O,C,T,F,I,A  Cost = 144

@@ -1,0 +1,20 @@
+Nearist Neighbor runs.
+A,M,D,G,H,F,Q,N,O,C,K,E,J,B,I,L,P,A  Cost = 2187
+B,E,K,C,O,N,Q,G,H,F,M,D,A,P,L,I,J,B  Cost = 2179
+C,O,N,Q,G,H,F,M,D,A,P,L,I,E,K,J,B,C  Cost = 2229
+D,M,G,H,F,Q,N,O,C,K,E,J,B,I,L,P,A,D  Cost = 2178
+E,K,C,O,N,Q,G,H,F,M,D,A,P,L,I,J,B,E  Cost = 2179
+F,H,G,Q,M,D,A,N,O,C,K,E,J,B,I,L,P,F  Cost = 2413
+G,H,F,Q,M,D,A,N,O,C,K,E,J,B,I,L,P,G  Cost = 2387
+H,G,Q,F,M,D,A,N,O,C,K,E,J,B,I,L,P,H  Cost = 2427
+I,L,P,D,M,G,H,F,Q,N,O,C,K,E,J,B,A,I  Cost = 2415
+J,K,E,C,O,N,Q,G,H,F,M,D,A,P,L,I,B,J  Cost = 2225
+K,E,C,O,N,Q,G,H,F,M,D,A,P,L,I,J,B,K  Cost = 2293
+L,I,D,M,G,H,F,Q,N,O,C,K,E,J,B,A,P,L  Cost = 2340
+M,D,G,H,F,Q,N,O,C,K,E,J,B,I,L,P,A,M  Cost = 2187
+N,O,C,K,E,J,B,F,H,G,Q,M,D,A,P,L,I,N  Cost = 2343
+O,C,N,Q,G,H,F,M,D,A,P,L,I,E,K,J,B,O  Cost = 2276
+P,L,I,D,M,G,H,F,Q,N,O,C,K,E,J,B,A,P  Cost = 2340
+Q,G,H,F,M,D,A,N,O,C,K,E,J,B,I,L,P,Q  Cost = 2413
+Exact solution is:
+A,D,M,G,H,F,Q,N,O,C,K,J,B,E,I,L,P,A  Cost = 2085
